@@ -9,7 +9,7 @@ PluralConverter is a PHP class that provides functionality for converting singul
 You can install the PluralConverter class using Composer. Run the following command in your project directory:
 
 ```
-composer require bmt/plural-converter
+composer require bmt/noun-converter
 ```
 
 ## Usage
