@@ -1,0 +1,21 @@
+{
+    "name": "bmt/noun-converter",
+    "description": "A class for converting singular nouns to their plural form or inverse.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bmt\\NounConverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Taha",
+            "email": "info@mohammedtaha.net"
+        }
+    ],
+    "require": {
+       
+    },
+    "minimum-stability": "stable"
+}
